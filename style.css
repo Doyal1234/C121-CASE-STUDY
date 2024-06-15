@@ -1,0 +1,27 @@
+body{
+background-color: rgb(249, 249, 76);
+}
+
+.first,.second{
+background: white;
+border-radius: 10px;
+line-height: 2;
+}
+
+.test_image_and_result{
+background-color: rgb(155, 153, 153);
+border-radius: 10px;
+box-shadow: 1px 1px 1px 25px grey;
+width: 99%;
+margin-bottom: 15px;
+}
+
+b{
+color: purple;
+font-weight: bold;
+}
+
+.mini_result{
+    color: purple;
+    font-weight: bold;
+}
